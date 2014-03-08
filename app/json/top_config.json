@@ -1,0 +1,26 @@
+{
+	"title" : "穆斯林开心网",
+	"sub_title" : "您的生活手册",
+	"slides" : [
+		{
+			"image" : "img/1.jpg",
+			"text" : "清真美食1",
+			"active" : true
+		},
+		{
+			"image" : "img/2.jpg",
+			"text" : "清真美食2",
+			"active" : false
+		},
+		{
+			"image" : "img/3.jpg",
+			"text" : "清真美食3",
+			"active" : false
+		},
+		{
+			"image" : "img/4.jpg",
+			"text" : "清真美食4",
+			"active" : false
+		}
+	]
+}
